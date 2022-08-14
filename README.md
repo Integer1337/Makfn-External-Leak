@@ -1,8 +1,6 @@
 # Makfn-External-Leak-
 
 
-(All credits goes to SmartBoy's Original Repo --> https://github.com/Smartboy1337/makfn-leak)
-
 Features:
 
 Aimbot Mouse Aim Aimkey Crosshair Aim at downed Fov circle —Weapon config (For every gun)— Smoothness Aimbone
@@ -15,4 +13,6 @@ Errors fixed overlay could be buggy but its working and updated just add ur driv
 
 
 
-# Makfn-External-Leak-
+# Credits
+
+(All credits goes to SmartBoy's Original Repo --> https://github.com/Smartboy1337/makfn-leak)
