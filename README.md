@@ -8,18 +8,24 @@ Features:
 • Fov circle
 
 • Weapon configurations 
+
 • Smoothness
+
 • Aimbone
-• Box ESP
-• ESP Cornered 
+
 • Player Distance
+
 • Player Weapon
+
 • Snaplines
+
 • Loot Esp
+
 • Chest ESP 
+
 • Ammobox ES
+
 • Vehicle ESP 
-•
 
 Note: Errors fixed overlay could be buggy but its working and updated just add ur driver and done
 
