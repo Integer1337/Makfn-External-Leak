@@ -23,7 +23,7 @@ Features:
 
 • Chest ESP 
 
-• Ammobox ES
+• Ammobox ESP
 
 • Vehicle ESP 
 
