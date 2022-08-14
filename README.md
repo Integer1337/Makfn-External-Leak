@@ -4,7 +4,9 @@
 Features:
 
 • Aimbot Mouse Aim
+
 • Fov circle
+
 • Weapon configurations 
 • Smoothness
 • Aimbone
